@@ -43,5 +43,7 @@ function clearCart() {
 function toggleDarkMode() {
   document.body.classList.toggle("dark");
 }
-
+if(cart.length === 0){
+  list.innerHTML = "<p>Cart is empty</p>";
+}
 updateCart();
