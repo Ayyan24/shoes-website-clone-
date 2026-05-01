@@ -45,11 +45,3 @@ function toggleDarkMode() {
 }
 
 updateCart();
-
-  updateCart();
-}
-if(cart.length === 0){
-  list.innerHTML = "<p>Cart is empty</p>";
-}
-updateCart();
-
