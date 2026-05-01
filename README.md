@@ -2,27 +2,32 @@
 
 ## Description
 
-This is a modern shoe store website built using HTML, CSS, and JavaScript.
-It includes features like add to cart, dark mode, and responsive design.
+This project is a modern shoe store website clone built using HTML, CSS, and JavaScript.
+It includes features like add to cart, dark mode, login page, and checkout system.
 
 ## Features
 
-* Add to cart system
-* Cart with total price
+* Add to Cart system with total price
+* Cart saved using localStorage
 * Dark mode toggle
-* Login & checkout pages
-* Responsive layout
+* Login page (UI)
+* Checkout page (UI)
+* Responsive design
 
 ## Technologies Used
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 
 ## How to Run
 
-Open index.html in browser
+Download files and open index.html in browser
 
 ## Live Website
 
-(https://shoes-website-clone-neon.vercel.app/)
+https://shoes-website-clone-neon.vercel.app/
+
+## Author
+
+Ayyan Raghib
